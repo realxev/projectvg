@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @pjavascript
-- 👀 I’m interested in javascript
+- 👋 Hi, I’m tarun
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
